@@ -1,4 +1,4 @@
-# Parler-Processing
+# Parler Processing
 A repository of Python scripts used for the processing of the Parler social network dataset from Aliapoulios et al.
 
 ## Process:
