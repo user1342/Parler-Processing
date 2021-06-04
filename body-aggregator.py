@@ -1,6 +1,8 @@
 """
 This script is used on a a corpus of Json file Parler posts and users, extracting the body of the post and user information
-(follow/ following ratio and post frequency). This script creates a single corpus (a CSV file) with one post per row.
+(follow/ following ratio and post frequency). This script creates a single corpus (a CSV file) with one post per row. 
+
+Download the posts and users into a folder named parler_data and parler_users respectively.
 """
 
 import os
